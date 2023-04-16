@@ -12,6 +12,6 @@ Evaluating the trained model on a separate validation dataset to assess its accu
 
 **Tools :** <br >
 Programming language: Python. <br >
-Data processing libraries: pandas and NumPy. <br >
+Data processing libraries: Pandas and NumPy. <br >
 deep learning libraries: TensorFlow, and Keras. <br >
 Deep learning model: VGG16
