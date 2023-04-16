@@ -1,4 +1,4 @@
-# chest x-ray prediction
+# Chest x-ray prediction
 
 In this project, we will develop a deep learning model to detect pneumonia in chest X-ray images. The model will be trained on a large dataset of chest X-ray images labeled with pneumonia diagnosis, as well as healthy control images. The dataset can be obtained from Kaggle datasets.
 
